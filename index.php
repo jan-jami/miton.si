@@ -20,14 +20,7 @@ echo file_get_contents("templates/nav_template.html");
     on this website i'll make tools for, as well as write in and about toki about the constructed language *toki pona*. i'll also post other things on my [blog](/sitelen).  
     if you want to learn more about who i am, check [this page](mi.php).
 </md-block>
-    <link rel="stylesheet" href="https://miton.si/templates/mantewebringcss.css">
-    <div id="mante" class="webring"></div>
 
-
-        <script type="text/javascript" src="https://the-blob-system.neocities.org/mante_webring/onionring-variables.js"></script>
-        <script type="text/javascript" src="https://the-blob-system.neocities.org/mante_webring/onionring-widget.js"></script>
-        </div>
-    
 
 </main>
 </body>
