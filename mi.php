@@ -21,6 +21,7 @@ mi tonsi pi meli lili li soweli suwi musi :3
 mi tan ma Owajo pi ma Mewika.
 
 <img src="/images/vrcpic.png" style="width: 24vh; height: '20vh">
+    
 ### ijo seme li pona tawa sina?
 #### musi
 - musi Manka (Minecraft)
