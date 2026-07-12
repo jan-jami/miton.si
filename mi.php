@@ -17,7 +17,7 @@ echo file_get_contents("templates/nav_template.html");
 toki! mi jan Jami!
     
 mi tonsi pi meli lili li soweli suwi musi :3
-    
+    <img src="/images/vrchatpic.png" style="width: '24vh'; height: '20vh'"
 mi tan ma Owajo pi ma Mewika.
     
 ### ijo seme li pona tawa sina?
