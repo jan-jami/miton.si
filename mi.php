@@ -38,7 +38,7 @@ sina wile toki tawa mi lon ilo ante la o lukin e ni ale:
 - ilo pi lipu ilo: `jami@miton.si`
 - ilo Siko (Discord): `janjami`
 - musi Wijasa (VRChat): `_jami`
-- ilo Jutu (Youtube): [jan Jami](https://www.youtube.com/@janJami-gh8rq)
+- ilo Jutu (Youtube): [jan Jami](https://www.youtube.com/@janjami)
 
 
 </md-block>
