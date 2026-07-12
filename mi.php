@@ -15,8 +15,11 @@ echo file_get_contents("templates/nav_template.html");
   # mi
 ### sina seme?
 toki! mi jan Jami!
+    
 mi tonsi pi meli lili li soweli suwi musi :3
+    
 mi tan ma Owajo pi ma Mewika.
+    
 ### ijo seme li pona tawa sina?
 #### musi
 - musi Manka (Minecraft)
@@ -24,8 +27,9 @@ mi tan ma Owajo pi ma Mewika.
 - musi Seki (Chess)
 - musi Sukapo / musi nimi (Scrabble)
 ### pali mi
-### kulupu pi kama sona
+#### kulupu pi kama sona
 mi pali e kulupu pi musi Wijasa tawa ni: jan o ken kama sona e toki pona lon musi ni!
+    
 sina ken kama tawa kulupu kepeken [nasin ni](https://vrchat.com/home/group/grp_190487b2-4046-4a21-a00b-a6835885a8a1)
 ### sina seme lon lipu ante?
 sina wile toki tawa mi lon ilo ante la o lukin e ni ale:
